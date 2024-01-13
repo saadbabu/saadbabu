@@ -2,7 +2,7 @@
 # 💫 About Me:
 🔭 I’m currently working on AR projects<br>🤝 I’m looking for help with Flutter Development<br>🌱 I’m currently learning new State managements<br>💬 Ask me about development<br>⚡ Fun fact love to play cricket
 
-<img align = "right" alt = "coding" width = "400" src = "[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRDj-Sl9AY15eDJtG-OhL5yBmGBU4nIkZ8tA&usqp=CAU](https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif)">
+<img align = "right" alt = "coding" width = "400" src = "https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif">
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/saad.asif.184/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/muhammad-saad-65b07424b/) 
